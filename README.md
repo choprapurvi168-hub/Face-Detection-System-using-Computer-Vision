@@ -1,9 +1,6 @@
 # Face-Detection-System-using-Computer-Vision
 The system identifies faces by drawing bounding boxes around them, making it useful for applications like security systems, attendance monitoring, and basic AI-based vision projects.
 
-# Face-Detection-System-using-Computer-Vision
-The system identifies faces by drawing bounding boxes around them, making it useful for applications like security systems, attendance monitoring, and basic AI-based vision projects.
-
 Project Overview--
 
 This project is a Face Detection System developed using Computer Vision techniques in Python. It detects human faces in real time using a webcam or from images/videos by applying Haar Cascade Classifier provided by OpenCV.
